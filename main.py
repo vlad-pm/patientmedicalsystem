@@ -4,6 +4,7 @@ from datetime import datetime
 from tblInfo import * 
 from database import dbHost, dbUser, dbPassword
 #vg
+#adding to test if git issue fixed
 global version
 version = 'V0.0.5'
 
