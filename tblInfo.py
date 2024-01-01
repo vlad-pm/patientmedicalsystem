@@ -1,5 +1,5 @@
 #tbl creation
-#vg
+#vg la
 tblAccountsColumns = """
     id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50),
