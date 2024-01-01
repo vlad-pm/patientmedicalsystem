@@ -3,7 +3,7 @@ import mysql.connector
 from datetime import datetime
 from tblInfo import * 
 from database import dbHost, dbUser, dbPassword
-
+#vg
 global version
 version = 'V0.0.5'
 
